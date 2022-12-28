@@ -1,0 +1,2 @@
+# Inventory-Management-System
+This software is developed in java language to keep track of the products to be served to the customers. There are three types of users i.e customers, manager and employees. The customers are supposed to buy the products using this app. The employees and managers are with the job of managing the products i.e Add proudct, Delete product, Update product. This app facilitates the manager with more functionalites than employees. Moreover, the screenshots of running project and requirement document is attahed in the folder.
